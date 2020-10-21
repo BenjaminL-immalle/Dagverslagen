@@ -6,7 +6,7 @@ Ik ben vandaag begonnen met een excel bestand te maken voor de vergelijking. Van
 Ik heb ook een word bestand gemaakt met info over hoe je de bepaalde sites moet gebruiken. Ik heb ook een afspraak gemaakt via de site (dit was een opdracht) en hier dan een soort stappen plan van gemaakt. Ik heb daarna een Gezins polis voor mezelf afgesloten (ook een opdracht) en natuurlijk daarna terug vernietigt want dit was maar een opdracht, hier heb ik ook een soort stappen plan van gemaakt in datzelfde word document. In dit wordt document heb ik ook nog laten zien op welke link(s) je moet klikken om op de site te geraken van KBC verzekeringen (hier kan de een afspraak maken en een verzekering starten) want op elke site van KBC zijn er links waardoor je uiteindelijk bij KBC verzekeringen uit kom.
 
 
-# 2020-10-19
+# 2020-10-20
 Ik heb vandaag de hele dag thuis gewerkt.
 Ik ben gestart rond 9:30 en ben gestopt om iets na 16 uur.
 Hetgene dat ik vandaag heb kunnen doen is ten eerste mijn dagverslag van gisteren in github gezet want ik was even vergeten dat dit moest en de link dan nog in teams gezet.
